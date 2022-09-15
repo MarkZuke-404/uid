@@ -127,7 +127,7 @@ def back():
 def banner():
 	clear()
 	sol()
-	print(f'Version  : 5.0
+	print("f Version: 
 ########     ###    ##    ## #### ########  
 ##     ##   ## ##   ##   ##   ##  ##     ## 
 ##     ##  ##   ##  ##  ##    ##  ##     ## 
